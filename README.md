@@ -3,8 +3,8 @@ Just press random buttons on your keyboard and play sound. I don't know try maki
 Go Nuts!
 
 ## Dependencies
+<h4>Javascript Libraries</h4>
 <ul>
-  <li><h3>Javascript Libraries</h3></li>
   <li>Howler.js</li>
   <li>Paperjs</li>
 </ul>
